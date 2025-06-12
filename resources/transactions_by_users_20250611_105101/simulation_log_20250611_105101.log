@@ -1,0 +1,24 @@
+Action 0: [2025-06-11 10:51:01] testUser10 transferred 71,11 to testUser2
+Action 1: [2025-06-11 10:51:01] testUser5 balance inquiry 0,00
+Action 2: [2025-06-11 10:51:01] testUser2 balance inquiry 0,00
+Action 3: [2025-06-11 10:51:01] testUser5 withdrew 59,93
+Action 4: [2025-06-11 10:51:01] testUser11 transferred 10,56 to testUser2
+Action 5: [2025-06-11 10:51:01] testUser10 balance inquiry 0,00
+Action 6: [2025-06-11 10:51:01] testUser10 transferred 51,29 to testUser3
+Action 7: [2025-06-11 10:51:01] testUser5 withdrew 89,62
+Action 8: [2025-06-11 10:51:02] testUser11 balance inquiry 0,00
+Action 9: [2025-06-11 10:51:02] testUser2 withdrew 29,10
+Action 10: [2025-06-11 10:51:02] testUser9 balance inquiry 0,00
+Action 11: [2025-06-11 10:51:02] testUser1 transferred 27,37 to testUser2
+Action 12: [2025-06-11 10:51:02] testUser2 balance inquiry 0,00
+Action 13: [2025-06-11 10:51:02] testUser6 balance inquiry 0,00
+Action 14: [2025-06-11 10:51:02] testUser11 balance inquiry 0,00
+Action 15: [2025-06-11 10:51:02] testUser5 transferred 52,37 to testUser9
+Action 16: [2025-06-11 10:51:02] testUser8 withdrew 30,31
+Action 17: [2025-06-11 10:51:02] testUser10 transferred 8,63 to testUser8
+Action 18: [2025-06-11 10:51:02] testUser9 balance inquiry 0,00
+Action 19: [2025-06-11 10:51:02] testUser7 transferred 48,52 to testUser1
+Action 20: [2025-06-11 10:51:02] testUser9 transferred 92,04 to testUser6
+Action 21: [2025-06-11 10:51:03] testUser11 balance inquiry 0,00
+Action 22: [2025-06-11 10:51:03] testUser4 balance inquiry 0,00
+Action 23: [2025-06-11 10:51:03] testUser6 withdrew 3,57
